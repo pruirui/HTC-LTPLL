@@ -3,10 +3,10 @@
 This is a official [PyTorch](http://pytorch.org) implementation for **Long-tailed Partial Label Learning by Head Classifier and Tail Classifier Cooperation (AAAI24)**. 
 
 
-##Data Preparation
-###CIFAR and SUN397
+## Data Preparation
+### CIFAR and SUN397
 For CIFAR and SUN397 datasets, One can directly run shell codes and the dataset will be automatically downloaded.
-###PASCAL VOC 2007
+### PASCAL VOC 2007
 Download the LT-PLL version of PASCAL VOC 2007 and extract it to "./data". This LT-PLL dataset is builded by [RECORDS](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL). 
 
 
